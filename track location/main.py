@@ -1,6 +1,5 @@
 
 
-
 from tkinter import *
 import phonenumbers
 from phonenumbers import carrier
